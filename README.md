@@ -5,7 +5,7 @@
 ## Inspiration
 I wanted to create a "Megapad" that wasn't just keys—I needed control. I designed a custom macropad featuring **6 keys, 2 rotary encoders, and an OLED screen** so I could manage volume, scroll through pages, and see my layer status all at once. It's the ultimate desk companion for productivity (and fidgeting).
 
-## Challenges
+## Challenges        
 
 **Fusion 360 was a nightmare at first.** I'd never used it before, and just getting the sketches to lock in or the mouse controls to cooperate felt like a puzzle. The hardest technical hurdle was the mechanical integration specifically the USB-C port alignment and the internal clearance for the tall encoder pins.
 
